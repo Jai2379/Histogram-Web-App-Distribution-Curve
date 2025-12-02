@@ -1,6 +1,4 @@
-#Student Name: Jaiaditya Asudani
-#Student ID: 21182653
-# Hisotgram andn Distribution Curve App
+#Hisotgram andn Distribution Curve App
 
 #import neccesary libs
 import streamlit as st
@@ -620,3 +618,4 @@ else:
                 st.write(f"- {name}: {value:.4f}")
 st.markdown("---")
 st.caption("NE111 Project - Jaiaditya Asudani's Distribution and Histogram Web App :)")
+
